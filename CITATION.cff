@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite the archived release DOI when available."
-title: "T-BiAS: Hybrid TCN-BiGRU-Attention and Semantic XGBoost for C-MAPSS Near-Failure Detection"
+title: "T-BiAS: Hybrid TCN-BiGRU-Attention and Semantic XGBoost for C-MAPSS Anomaly Detection"
 type: software
 authors:
   - family-names: "Özcan"
