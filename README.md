@@ -96,7 +96,7 @@ T-BiAS-CMAPSS/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/begum26/T-BiAS-CMAPSS.git
+git clone https://github.com/begum35/T-BiAS-CMAPSS.git
 cd T-BiAS-CMAPSS
 ```
 
