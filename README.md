@@ -185,4 +185,4 @@ No software license has been selected for this package. Reuse rights are therefo
 
 ## Acknowledgment
 
-This repository supports research on near-failure detection and predictive maintenance using the NASA C-MAPSS benchmark.
+This repository supports research on anomaly detection and predictive maintenance using the NASA C-MAPSS benchmark.
