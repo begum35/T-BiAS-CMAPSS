@@ -174,11 +174,6 @@ GitHub supports the **“Cite this repository”** button through [`CITATION.cff
 
 **Repository:** https://github.com/begum26/T-BiAS
 
-## Authors
-
-- **Begüm Özcan**
-- **Duygu Can Gündoğan**
-
 ## License and data rights
 
 No software license has been selected for this package. Reuse rights are therefore **not granted by default**; choose a license after confirming permission from all relevant rights holders. The NASA dataset is distributed separately under its own terms.
