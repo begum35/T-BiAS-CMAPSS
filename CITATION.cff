@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: "Özcan"
     given-names: "Begüm"
-- family-names: "Gündoğan"
+  - family-names: "Gündoğan"
     given-names: "Duygu Can"
 repository-code: "https://github.com/begum26/T-BiAS-CMAPSS"
 # Add release date, version, and DOI once the public release is archived.
