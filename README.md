@@ -10,7 +10,7 @@
 [![XGBoost](https://img.shields.io/badge/XGBoost-Ensemble-14833B)](https://xgboost.readthedocs.io/)
 [![Dataset](https://img.shields.io/badge/Dataset-NASA%20C--MAPSS-1D5B9B)](https://data.nasa.gov/)
 
-*A research implementation for precision-aware, engine-level near-failure classification.*
+*A research implementation for precision-aware, engine-level anomaly detection.*
 
 </div>
 
@@ -75,7 +75,7 @@ The pipeline has two complementary branches: a **TCN → BiGRU → attention poo
 
 **Threshold policy.** Candidate thresholds are derived from the validation precision–recall curve. If no candidate meets the 0.90 precision requirement, the implementation records a fallback. Thresholds are **not tuned on the test set**.
 
-**Implementation-specific note.** The supplied script does **not** implement isotonic probability calibration. Please ensure the manuscript describes the exact version of the code and experiments being released.
+**Implementation-specific note.** The supplied script does **not** implement isotonic probability calibration.
 
 ## Repository structure
 
@@ -172,13 +172,12 @@ If you use this implementation, please cite the associated paper once published 
 
 GitHub supports the **“Cite this repository”** button through [`CITATION.cff`](CITATION.cff). The metadata should be updated with the publication details and release DOI when available.
 
-**Repository:** https://github.com/begum26/T-BiAS-CMAPSS
+**Repository:** https://github.com/begum26/T-BiAS
 
 ## Authors
 
 - **Begüm Özcan**
-
-*Additional contributors and institutional affiliations should be added after confirmation by the respective authors.*
+- **Duygu Can Gündoğan**
 
 ## License and data rights
 
